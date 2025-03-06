@@ -5,6 +5,9 @@
 ## Overview
 In this project, I analyze U.S. real estate data from 2000 to 2023 to uncover key trends, insights, and investment opportunities. The analysis explores various attributes of properties, such as price, size, location, and age, and evaluates their impact on house prices. Through statistical analysis and visualizations, this project aims to provide a solid understanding of the U.S. housing market and its investment potential.
 
+[![Open In Colab](https://colab.research.google.com/assets/colabbadge.svg)](https://github.com/cohenkslaf/Getting_into_Business/blob/main/Data_Understanding.ipynb)
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Acquisition](#data-acquisition)
@@ -56,7 +59,6 @@ An additional dataset from the U.S. Housing Market & Interest Rates is used to c
 ## Open This Notebook in Google Colab
 To view and run this project, click the link below to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colabbadge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
